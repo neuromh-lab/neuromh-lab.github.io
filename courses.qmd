@@ -1,0 +1,101 @@
+---
+title: "Teaching"
+---
+
+## Teaching Approach {.section-heading}
+
+Teaching at Maastricht University is grounded in Problem-Based Learning (PBL) and
+active engagement with real research problems. Courses are designed to help
+students build not just content knowledge but the critical thinking and
+methodological skills needed for independent scientific work, whether in
+the lab, the clinic, or beyond.
+
+Franc holds a University Teaching Qualification (UTQ), is PBL-certified, and successfully completed the FPN mentor training, and
+the Maastricht University's Inspiring Educational Leadership Trajectory
+(IEL). His courses and lectures have received high student satisfaction ratings
+over the past years.
+
+## Bachelor's Courses {.section-heading}
+
+### Lifespan Psychology
+**Programme:** BSc Psychology  
+**Period:** Period 5 (April-June)  
+**Level:** Year 1  
+**Students:** Undergraduate psychology students (~450 per year)  
+**Role:** Course Coordinator
+
+The course provides an in-depth analysis of critical developmental processes including perceptual, cognitive, linguistic, emotional, social, and motor development. Key clinical conditions, including ADHD, schizophrenia, obsessive-compulsive disorder, depression, and dementia are examined as well including psychological interventions, pharmacological treatments, and other emerging therapeutic modalities. By integrating developmental and clinical perspectives, the course provides a well-rounded view of human psychological development, variation within it, and potential paths for intervention.
+
+
+## Master's Courses {.section-heading}
+
+### Development of Cognition and Language
+**Programme:** MSc Psychology  
+**Period:** Period 2 (October-December)  
+**Level:** Master's  
+**Students:** Graduate psychology students (50–80 per year)  
+**Role:** Course Coordinator
+
+This course explores the typical and atypical development (dyslexia, dyscalculia) of higher-order cognitive processes that underlie learning and academic achievement. Students examine how core cognitive systems, including working memory, episodic and semantic memory, language, numeracy and mathematical reasoning, executive functions, and general intelligence, develop and interact over time.
+
+
+## Workshops  {.section-heading}
+
+### The Assessment Cycle
+**Programme:** University Teaching Qualification   
+**Period:** Period 2 & 4 (Oct & Mar)   
+**Level:** PhD  
+**Participants:** Teaching staff (15–20 per year)  
+**Role:** Workshop Coordinator
+
+The UTQ programme supports staff as they develop and improve with regard to the competences needed for teaching at university, and guides them in obtaining a UTQ certificate. The Assessment Cycle workshop consists of 2 sessions of 2 hours. The workshops focus on assessment policy and vision, constructive alignment, and the application of provided guidelines with respect to different types of assessment.
+
+---
+
+## Past Courses {.section-heading}
+
+- **Development** — Course coordinator, Maastricht University (2020–2024)
+- **Practical Training EEG and ERP** — Tutor, Maastricht University (2014–2021)
+- **Infancy** — Tutor, Maastricht University (2014–2021)
+- **Writing Skills** — Tutor, Maastricht University (2015–2016)
+- **Research Practicum** — Supervisor, Maastricht University (2015)
+- **Electrophysiological Research Methods in Clinical Neuroscience** — Lecturer, University of North Carolina at Chapel Hill (2008–2012)
+
+---
+
+## Thesis Supervision {.section-heading}
+
+We regularly supervise Bachelor's and Master's thesis projects related to
+the lab's research themes. Topics typically involve neurodevelopmental
+conditions, sensory processing sensitivity, and computational approaches to
+mental health, using EEG data and/or questionnaire-based data across healthy
+or clinical populations. To date, Franc has supervised over 60 Master's thesis students and numerous
+Bachelor's students at Maastricht University, and has served as (Co-)Promotor
+for four PhD candidates.
+
+{{< include _join-cta.qmd >}}
+
+---
+
+## Educational Leadership & Service {.section-heading}
+
+Franc contributes to the broader educational and research mission of the
+Faculty of Psychology and Neuroscience through committee work, curriculum
+development, mentoring, and coordination of the Faculty's EEG infrastructure.
+
+### Current
+
+- **Chair**, EEG Project Proposal Committee, FPN (2017-present; committee member since 2014)
+- **Coordinator**, FPN EEG laboratories — four fixed and four mobile labs, FPN (2017-present)
+- **Member**, FPN Workgroup AI (2023-present)
+- **FPN representative**, University-wide Expert Group "UM Vision on Assessment" (2019-present)
+- **Programmatic Assessment Mentor**, Bachelor in Psychology mentoring programme, FPN (2025-present)
+- **Mentor**, Staff mentoring programme, FPN (2022-present)
+- **Mentor**, PhD-mentoring programme, Department of Cognitive Neuroscience, FPN (2021-present)
+
+### Past
+
+- **Chair**, Board of Examiners Master Affairs, FPN (2021-2025)
+- **Member**, Content Development Team, new Bachelor in Psychology curriculum (2021-2024)
+- **Member**, Board of Examiners, FPN (2017-2021)
+- **Member**, project group "Digital Assessment FPN" (2018-2

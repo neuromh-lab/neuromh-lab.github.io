@@ -1,0 +1,64 @@
+---
+title: "Join the Lab"
+subtitle: "PhD positions · Postdocs · MSc Theses · Internships"
+---
+
+We welcome motivated researchers and students who are passionate about understanding how the brain shapes mental health. We value curiosity, rigour, and collaborative work.
+
+---
+
+## Open Positions {.section-heading}
+
+There are no funded PhD or postdoc positions currently available. However, we are always interested in hearing from strong candidates. If you are considering applying for external fellowship funding and your research interests overlap with ours, please get in touch — see [Postdoctoral Opportunities](#postdoc) below.
+
+---
+
+## MSc Thesis Projects {.section-heading}
+
+We regularly supervise MSc thesis students. Currently this is open to students from Maastricht University only.
+
+
+**How to apply:** Send an email with: (1) brief motivation (half page), (2) your
+CV, and (3) your transcript. Include "MSc Thesis Inquiry" in the subject line.
+
+[📧 Email NeuroMH Lab](mailto:franc.donkers@maastrichtuniversity.nl?subject=MSc%20Thesis%20Inquiry){.btn .btn-primary .btn-sm}
+
+**Timeline:** Applications reviewed on a rolling basis. 
+
+---
+
+
+## Postdoctoral Opportunities {#postdoc .section-heading}
+
+We do not currently have funded postdoctoral openings, but we welcome inquiries from researchers interested in applying for **fellowship funding** together with the lab. Relevant schemes include:
+
+- NWO Veni (Netherlands)
+- Marie Skłodowska-Curie Postdoctoral Fellowship (EU)
+
+If your research interests match ours and you are interested in applying for one of these, please get in touch with a CV and a brief research statement.
+
+---
+
+## What to Expect in Our Lab {.section-heading}
+
+::: {.research-grid}
+
+::: {.theme-card}
+### 🔬 Rigorous Science
+We maintain high standards for study design, analysis, and reporting.
+:::
+
+::: {.theme-card}
+### 👥 Collaborative Culture
+Regular lab meetings, one-on-one supervision, and a supportive team environment.
+:::
+
+::: {.theme-card}
+### 🌍 International Network
+Connections with collaborators across the Netherlands, Europe and beyond.
+:::
+
+:::
+
+---
+

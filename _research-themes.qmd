@@ -1,0 +1,39 @@
+::: {.research-grid}
+
+::: {.theme-card}
+![](images/icon-sensory.svg){width="60"}
+
+### Sensory Processing Dynamics
+
+Examining how individual differences in sensory sensitivity and
+information processing shape neurodevelopmental pathways and confer
+vulnerability or resilience.
+
+[Learn more →](research.qmd#sensory)
+:::
+
+::: {.theme-card}
+![](images/icon-markers.svg){width="60"}
+
+### Neurobiological Markers of Vulnerability
+
+Identifying and validating objective neurocognitive indicators for
+early detection and biologically informed characterization of mental
+health risk.
+
+[Learn more →](research.qmd#markers)
+:::
+
+::: {.theme-card}
+![](images/icon-modelling.svg){width="60"}
+
+### Mechanistic Modelling
+
+Developing integrative and computational frameworks linking sensory
+and cognitive processes to symptom dimensions and broader mental
+health outcomes.
+
+[Learn more →](research.qmd#modelling)
+:::
+
+:::

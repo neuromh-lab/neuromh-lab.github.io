@@ -1,0 +1,59 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+
+## Neurocognitive Development & Mental Health Research Lab
+
+**Department of Cognitive Neuroscience**  
+**Maastricht University**
+
+:::
+
+We combine **experimental neuroscience** with **clinical research** to examine how core systems such as sensory responsivity, memory, and cognitive control  interact over time to influence adaptive and maladaptive health outcomes.
+
+Using **non-invasive neuroimaging**, primarily Electroencephalography (EEG) in combination with behavioral paradigms, and validated clinical and self-report measures, we capture the fine-grained temporal dynamics of neural information processing. 
+
+A central aim is to move beyond symptom-based classification toward **transdiagnostic, dimensional models** of mental health.
+
+[[Read our full mission →](about.qmd)]{.action-link}
+
+---
+
+## Our Research Themes
+
+{{< include _research-themes.qmd >}}
+
+---
+
+## Latest
+
+::: {.news-grid}
+
+::: {.news-card}
+[March 2026]{.news-date}
+
+#### New publication
+
+"The Boredom-ADHD Nexus: A Narrative and Meta-Analytic Review of the Evidence" published in *Clinical Child and Family Psychology Review*. [[DOI](https://doi.org/10.1007/s10567-026-00563-9)]{.pub-doi}
+:::
+
+::: {.news-card}
+[December 2025]{.news-date}
+
+#### New publication
+
+"Autism and Hikikomori Risk: A Link Beyond Other Psychopathologies, and Their Relationship to Loneliness and Solitude" published in *Journal of Autism and Developmental Disorders*. [[DOI](https://doi.org/10.1007/s10803-025-07180-5)]{.pub-doi}
+:::
+
+::: {.news-card}
+[June 2025]{.news-date}
+
+#### New publication
+
+"Caught in the Web of the Net? Part II: A Motivation-Based Developmental Psychopathology Model for the Aberrant Internet Use in (Young) People with Autism Spectrum Disorder" published in *Clinical Child and Family Psychology Review*. [[DOI](https://doi.org/10.1007/s10567-025-00539-1)]{.pub-doi}
+:::
+
+:::

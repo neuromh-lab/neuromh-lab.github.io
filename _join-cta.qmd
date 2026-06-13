@@ -1,0 +1,3 @@
+::: {.callout-tip}
+**Interested in joining?** See our [open positions](opportunities.qmd) for current opportunities.
+:::

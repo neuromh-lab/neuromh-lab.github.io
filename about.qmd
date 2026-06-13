@@ -1,0 +1,33 @@
+---
+title: "Neurocognitive Development & Mental Health Research Lab"
+---
+
+## Mission
+
+Mental health problems often emerge during development, yet the brain mechanisms underlying vulnerability or resilience remain insufficiently understood. The **Neurocognitive Development & Mental Health Research Lab** investigates the fundamental neurocognitive processes that shape mental health trajectories across the lifespan.
+
+## Approach
+
+We combine experimental neuroscience with clinical research to examine how core systems such as **sensory responsivity**, **memory**, and **cognitive control** interact over time to influence adaptive and maladaptive outcomes.
+
+Using non-invasive neuroimaging, primarily **Electroencephalography (EEG)**, in combination with behavioral paradigms and validated clinical and self-report measures, we capture the fine-grained temporal dynamics of neural information
+processing.
+
+Through **Event-Related Potentials (ERPs)**, **time-frequency analyses**, and **functional connectivity approaches**, we characterize how brain networks develop and reorganize from childhood into adulthood, giving rise to individual differences in cognition and behavior.
+
+## Framework
+
+A central aim of our work is to move beyond symptom-based classification toward **transdiagnostic, dimensional models** of mental health. By applying identical experimental frameworks across typically developing and clinical populations, including Autism Spectrum Disorder (ASD) and schizophrenia, we identify neurocognitive mechanisms that explain heterogeneity within and across diagnoses.
+
+Rather than treating disorders as fixed categories, we focus on processes that cut across traditional diagnostic boundaries.
+
+## Long-Term Goal
+
+Our long-term goal is to translate these insights into **objective neurobiological markers** that support early risk detection and stratification of vulnerability.
+
+By linking sensory and cognitive systems to developmental trajectories, we aim to inform prevention and intervention strategies tailored to individual neurocognitive profiles.
+
+Ultimately, the goal of our research is to advance a developmental, mechanism-based framework of mental health that supports earlier identification of risk and contributes to more effective, individualized care.
+
+---
+

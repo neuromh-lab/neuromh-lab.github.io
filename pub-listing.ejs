@@ -1,0 +1,7 @@
+<% for (const item of items) { %>
+<div class="pub-item">
+<div class="pub-title"><%- item.title %></div>
+<div class="pub-authors"><%- item.authors %> · <em><%- item.journal %></em> · <%- item.year %></div>
+<div class="pub-meta-line"><% if (item.doi) { %><a class="pub-doi" href="https://doi.org/<%- item.doi %>">DOI</a><span class="pub-badges"><span class="__dimensions_badge_embed__" data-doi="<%- item.doi %>" data-style="small_circle" data-hide-zero-citations="true"></span><span data-badge-popover="bottom" data-badge-type="donut" data-doi="<%- item.doi %>" data-hide-no-mentions="true" class="altmetric-embed"></span></span><% } %></div>
+</div>
+<% } %>

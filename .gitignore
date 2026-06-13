@@ -1,0 +1,18 @@
+# Quarto
+/_site/
+/.quarto/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.Rproj.user/
+.Rhistory
+.RData
+
+# Backups
+*.bak
+*.tmp
+
+**/*.quarto_ipynb

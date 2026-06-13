@@ -1,0 +1,66 @@
+---
+title: "Publications"
+listing:
+  - id: pub-sensory-list
+    contents: publications.yml
+    template: pub-listing.ejs
+    include:
+      category: "sensory"
+    sort:
+      - "year desc"
+  - id: pub-markers-list
+    contents: publications.yml
+    template: pub-listing.ejs
+    include:
+      category: "markers"
+    sort:
+      - "year desc"
+  - id: pub-modelling-list
+    contents: publications.yml
+    template: pub-listing.ejs
+    include:
+      category: "modelling"
+    sort:
+      - "year desc"
+  - id: pub-other-list
+    contents: publications.yml
+    template: pub-listing.ejs
+    include:
+      category: "other"
+    sort:
+      - "year desc"
+---
+
+Below is a selection of publications organized by research theme. For a complete list, see [ORCID](https://orcid.org/0000-0002-8252-0426).
+
+---
+
+## Sensory Processing Dynamics {#pub-sensory .section-heading}
+
+::: {#pub-sensory-list}
+:::
+
+---
+
+## Neurobiological Markers of Vulnerability {#pub-markers .section-heading}
+
+::: {#pub-markers-list}
+:::
+
+---
+
+## Mechanistic Modelling {#pub-modelling .section-heading}
+
+::: {#pub-modelling-list}
+:::
+
+---
+
+## Other Publications {#pub-other .section-heading}
+
+::: {#pub-other-list}
+:::
+
+<!-- Citation badge scripts -->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>

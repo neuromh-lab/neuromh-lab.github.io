@@ -1,0 +1,298 @@
+/*-- scss:defaults --*/
+/*-- custom.scss --*/
+/*-- Place in project root alongside _quarto.yml --*/
+
+
+
+// ── Brand Colors ──────────────────────────────────────────────────────────────
+$primary:   #2C5F8A;
+$secondary: #4A9EBF;
+$accent:    #E8732A;
+$dark:      #1A2E40;
+$light-bg:  #EAF4FB;
+
+// ── Override Cosmo theme variables ────────────────────────────────────────────
+$body-color:       #2d3748;
+$link-color:       $primary;
+$navbar-bg:        $dark;
+$navbar-fg:        white;
+$footer-bg:        $dark;
+$footer-fg:        #a0aec0;
+
+/*
+ * ─────────────────────────────────────────────
+ *  HERO BANNER
+ * ─────────────────────────────────────────────
+ */
+.hero-banner {
+  background: linear-gradient(135deg, $dark 0%, $primary 100%);
+  background-image: url('images/hero-neural.svg'), linear-gradient(135deg, $dark 0%, $primary 100%);
+  background-size: cover, cover;
+  background-position: center, center;
+  color: white !important;
+  padding: 6rem 3rem;
+  border-radius: 0;
+  margin: -1.5rem -1.5rem 3rem;
+  text-align: center;
+  position: relative;
+  h3 { margin-bottom: 2rem; }
+
+  h1, h2 { color: white !important; font-weight: 800; text-shadow: 0 2px 8px rgba(0,0,0,.3); }
+  p { color: #bee3f8; font-size: 1.15rem; max-width: 680px; margin: 0 auto 1.5rem; }
+
+  .btn-primary {
+    background: $secondary; border-color: $secondary; font-weight: 600;
+    &:hover { background: darken($secondary, 10%); }
+  }
+  .btn-outline {
+    background: transparent; border: 2px solid white; color: white; font-weight: 600;
+    &:hover { background: rgba(255,255,255,.15); }
+  }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  SECTION HEADINGS
+ * ─────────────────────────────────────────────
+ */
+.section-heading {
+  color: $dark;
+  border-bottom: 3px solid $primary;
+  padding-bottom: .5rem;
+  margin-bottom: 2rem;
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  RESEARCH THEME CARDS (Home page)
+ * ─────────────────────────────────────────────
+ */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.theme-card {
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-top: 4px solid $accent;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,.06);
+  transition: box-shadow .2s;
+
+  h3 { color: $primary; font-size: 1.05rem; margin-top: 0; }
+  p  { font-size: .9rem; color: #4a5568; }
+  // Action links inside theme cards
+  p > a[href]:last-child { color: $accent; font-weight: 600; &:hover { color: darken($accent, 12%); } }
+
+  &:hover { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  ACTION LINKS (→ arrows)
+ * ─────────────────────────────────────────────
+ */
+.action-link, .action-link a {
+  color: $accent;
+  font-weight: 600;
+  &:hover { color: darken($accent, 12%); }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  TEAM MEMBER CARDS
+ * ─────────────────────────────────────────────
+ */
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.member-card {
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 1px 4px rgba(0,0,0,.06);
+  transition: transform .2s;
+
+  h3 { font-size: 1rem; color: $dark; margin: .75rem 0 .25rem; }
+  .member-role { font-size: .8rem; color: $secondary; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
+  p { font-size: .85rem; color: #718096; }
+  .member-links a { color: $primary; margin: 0 .3rem; font-size: .85rem; }
+
+  &:hover { transform: translateY(-2px); }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  PI CARD (larger, full-width)
+ * ─────────────────────────────────────────────
+ */
+.pi-card {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-radius: 10px;
+  padding: 2.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,.06);
+  margin-bottom: 2rem;
+  max-width: 860px;
+
+  .pi-photo {
+    width: 260px;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    flex-shrink: 0;
+    margin-top: 0.4rem;
+  }
+
+  .pi-info {
+    max-width: 480px;
+
+    h3:first-child {
+      margin-top: 0;
+    }
+  }
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  PUBLICATION LIST
+ * ─────────────────────────────────────────────
+ */
+.pub-doi { color: $accent; font-weight: 600; font-size: .7rem; &:hover { color: darken($accent, 12%); } }
+
+.pub-item {
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-left: 4px solid $primary;
+  border-radius: 0 8px 8px 0;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+
+  .pub-title { font-weight: 600; color: $dark; font-size: .85rem; margin-bottom: .3rem; }
+  .pub-authors { color: #718096; font-size: .8rem; margin: 0; strong { font-size: .8rem; font-weight: 700; color: inherit; line-height: inherit; letter-spacing: inherit; } }
+  .pub-meta-line {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-top: .1rem;
+    line-height: 1;
+  }
+  .pub-badges {
+    display: inline-flex;
+    align-items: center;
+    span.__dimensions_badge_embed__,
+    span.altmetric-embed {
+      display: inline-flex;
+      vertical-align: middle;
+      margin-right: .3rem;
+    }
+    span.__dimensions_badge_embed__ {
+      zoom: 0.6;
+    }
+    span.altmetric-embed {
+      transform: scale(0.6);
+      transform-origin: left center;
+    }
+  }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  NEWS ITEMS
+ * ─────────────────────────────────────────────
+ */
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+.news-card {
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-radius: 8px;
+  padding: 1.25rem;
+  font-size: .9rem;
+
+  .news-date { color: $accent; font-size: .8rem; font-weight: 600; }
+  h4 { color: $dark; font-size: .95rem; margin: .3rem 0; }
+  p  { color: #4a5568; margin: 0; }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  RESPONSIVE ADJUSTMENTS
+ * ─────────────────────────────────────────────
+ */
+@media (max-width: 768px) {
+  .hero-banner { padding: 3rem 1.5rem; }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  CONTACT PAGE
+ * ─────────────────────────────────────────────
+ */
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 1.5rem;
+}
+
+.contact-info {
+  h2 {
+    color: $primary;
+    border-bottom: 2px solid $secondary;
+    padding-bottom: .4rem;
+    margin-top: 1.75rem;
+    font-size: 1.2rem;
+
+    &:first-child { margin-top: 0; }
+  }
+}
+
+.contact-map iframe {
+  width: 100%;
+  box-shadow: 0 2px 12px rgba(0,0,0,.1);
+}
+
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  EEG WAVEFORM DIVIDER
+ * ─────────────────────────────────────────────
+ */
+.eeg-divider {
+  text-align: center;
+  margin: 2rem 0;
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
