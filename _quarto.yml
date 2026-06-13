@@ -32,7 +32,7 @@ website:
         text: Contact
     right:
       - icon: github
-        href: https://github.com/neuromh-lab
+        href: https://github.com/neuromh-lab/neuromh-lab.github.io
 
   page-footer:
     background: "#1A2E40"
