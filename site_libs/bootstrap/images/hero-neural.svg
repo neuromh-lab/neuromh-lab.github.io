@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" preserveAspectRatio="xMidYMid slice">
+  <!-- Abstract neural network background for hero banner -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4A9EBF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1A2E40" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Subtle glow centers -->
+  <ellipse cx="300" cy="200" rx="250" ry="180" fill="url(#glow)"/>
+  <ellipse cx="900" cy="180" rx="280" ry="200" fill="url(#glow)"/>
+
+  <!-- Connection lines - left cluster -->
+  <line x1="80" y1="80" x2="180" y2="160" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="180" y1="160" x2="120" y2="280" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="180" y1="160" x2="320" y2="120" stroke="#4A9EBF" stroke-width="0.8" opacity="0.3"/>
+  <line x1="180" y1="160" x2="280" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="320" y1="120" x2="280" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="320" y1="120" x2="440" y2="180" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="280" y1="260" x2="440" y2="180" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="120" y1="280" x2="280" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="80" y1="80" x2="200" y2="40" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="200" y1="40" x2="320" y2="120" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="120" y1="280" x2="200" y2="350" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="280" y1="260" x2="350" y2="340" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+
+  <!-- Connection lines - center -->
+  <line x1="440" y1="180" x2="560" y2="100" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="440" y1="180" x2="520" y2="300" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="560" y1="100" x2="680" y2="160" stroke="#4A9EBF" stroke-width="0.8" opacity="0.3"/>
+  <line x1="520" y1="300" x2="680" y2="160" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="560" y1="100" x2="600" y2="220" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="520" y1="300" x2="600" y2="220" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="600" y1="220" x2="680" y2="160" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="520" y1="300" x2="640" y2="350" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="560" y1="100" x2="500" y2="30" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+
+  <!-- Connection lines - right cluster -->
+  <line x1="680" y1="160" x2="800" y2="100" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="680" y1="160" x2="780" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="800" y1="100" x2="920" y2="160" stroke="#4A9EBF" stroke-width="0.8" opacity="0.3"/>
+  <line x1="800" y1="100" x2="780" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="920" y1="160" x2="780" y2="260" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="920" y1="160" x2="1040" y2="100" stroke="#4A9EBF" stroke-width="0.8" opacity="0.25"/>
+  <line x1="920" y1="160" x2="1000" y2="280" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="780" y1="260" x2="1000" y2="280" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="1040" y1="100" x2="1140" y2="180" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="1000" y1="280" x2="1140" y2="180" stroke="#4A9EBF" stroke-width="0.8" opacity="0.2"/>
+  <line x1="1040" y1="100" x2="1100" y2="40" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="1000" y1="280" x2="1080" y2="350" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+  <line x1="780" y1="260" x2="840" y2="350" stroke="#4A9EBF" stroke-width="0.8" opacity="0.15"/>
+
+  <!-- Nodes - left cluster -->
+  <circle cx="80" cy="80" r="3" fill="#4A9EBF" opacity="0.4"/>
+  <circle cx="200" cy="40" r="2.5" fill="#4A9EBF" opacity="0.3"/>
+  <circle cx="180" cy="160" r="4" fill="#4A9EBF" opacity="0.5"/>
+  <circle cx="120" cy="280" r="3" fill="#4A9EBF" opacity="0.35"/>
+  <circle cx="320" cy="120" r="3.5" fill="#4A9EBF" opacity="0.45"/>
+  <circle cx="280" cy="260" r="3.5" fill="#4A9EBF" opacity="0.4"/>
+  <circle cx="200" cy="350" r="2.5" fill="#4A9EBF" opacity="0.25"/>
+  <circle cx="350" cy="340" r="2" fill="#4A9EBF" opacity="0.25"/>
+
+  <!-- Nodes - center -->
+  <circle cx="440" cy="180" r="4" fill="#4A9EBF" opacity="0.5"/>
+  <circle cx="560" cy="100" r="4.5" fill="#4A9EBF" opacity="0.55"/>
+  <circle cx="520" cy="300" r="3.5" fill="#4A9EBF" opacity="0.4"/>
+  <circle cx="600" cy="220" r="5" fill="#4A9EBF" opacity="0.6"/>
+  <circle cx="680" cy="160" r="4.5" fill="#4A9EBF" opacity="0.55"/>
+  <circle cx="500" cy="30" r="2.5" fill="#4A9EBF" opacity="0.25"/>
+  <circle cx="640" cy="350" r="2.5" fill="#4A9EBF" opacity="0.25"/>
+
+  <!-- Nodes - right cluster -->
+  <circle cx="800" cy="100" r="4" fill="#4A9EBF" opacity="0.5"/>
+  <circle cx="780" cy="260" r="3.5" fill="#4A9EBF" opacity="0.4"/>
+  <circle cx="920" cy="160" r="4.5" fill="#4A9EBF" opacity="0.55"/>
+  <circle cx="1040" cy="100" r="3.5" fill="#4A9EBF" opacity="0.45"/>
+  <circle cx="1000" cy="280" r="3.5" fill="#4A9EBF" opacity="0.4"/>
+  <circle cx="1140" cy="180" r="3" fill="#4A9EBF" opacity="0.35"/>
+  <circle cx="1100" cy="40" r="2.5" fill="#4A9EBF" opacity="0.25"/>
+  <circle cx="1080" cy="350" r="2.5" fill="#4A9EBF" opacity="0.25"/>
+  <circle cx="840" cy="350" r="2" fill="#4A9EBF" opacity="0.25"/>
+</svg>

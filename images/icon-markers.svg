@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Brain with marker points for Neurobiological Markers of Vulnerability -->
+  <circle cx="40" cy="40" r="38" fill="#EAF4FB" stroke="#2C5F8A" stroke-width="1.5"/>
+  <!-- Simplified brain outline -->
+  <path d="M28,50 C20,48 16,40 18,32 C20,24 26,20 32,20 C34,16 38,14 40,14 C42,14 46,16 48,20 C54,20 60,24 62,32 C64,40 60,48 52,50"
+    fill="none" stroke="#2C5F8A" stroke-width="2" stroke-linecap="round"/>
+  <!-- Central fissure -->
+  <path d="M40,16 C39,24 41,32 40,42 C39,48 40,52 40,56"
+    fill="none" stroke="#2C5F8A" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Marker dots -->
+  <circle cx="30" cy="30" r="3.5" fill="#4A9EBF" opacity="0.9"/>
+  <circle cx="50" cy="30" r="3.5" fill="#4A9EBF" opacity="0.9"/>
+  <circle cx="40" cy="24" r="3.5" fill="#4A9EBF" opacity="0.9"/>
+  <circle cx="35" cy="42" r="3.5" fill="#4A9EBF" opacity="0.9"/>
+  <circle cx="48" cy="40" r="3.5" fill="#4A9EBF" opacity="0.9"/>
+  <!-- Pulse rings around markers -->
+  <circle cx="30" cy="30" r="6" fill="none" stroke="#4A9EBF" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="50" cy="30" r="6" fill="none" stroke="#4A9EBF" stroke-width="0.8" opacity="0.4"/>
+</svg>
