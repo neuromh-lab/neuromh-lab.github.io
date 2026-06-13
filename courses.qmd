@@ -48,18 +48,18 @@ This course explores the typical and atypical development (dyslexia, dyscalculia
 **Participants:** Teaching staff (15–20 per year)  
 **Role:** Workshop Coordinator
 
-The UTQ programme supports staff as they develop and improve with regard to the competences needed for teaching at university, and guides them in obtaining a UTQ certificate. The Assessment Cycle workshop consists of 2 sessions of 2 hours. The workshops focus on assessment policy and vision, constructive alignment, and the application of provided guidelines with respect to different types of assessment.
+The UTQ program supports staff as they develop and improve with regard to the competences needed for teaching at university, and guides them in obtaining a UTQ certificate. The Assessment Cycle workshop consists of 2 sessions of 2 hours. The workshops focus on assessment policy and vision, constructive alignment, and the application of provided guidelines with respect to different types of assessment.
 
 ---
 
 ## Past Courses {.section-heading}
 
-- **Development** — Course coordinator, Maastricht University (2020–2024)
-- **Practical Training EEG and ERP** — Tutor, Maastricht University (2014–2021)
-- **Infancy** — Tutor, Maastricht University (2014–2021)
-- **Writing Skills** — Tutor, Maastricht University (2015–2016)
-- **Research Practicum** — Supervisor, Maastricht University (2015)
-- **Electrophysiological Research Methods in Clinical Neuroscience** — Lecturer, University of North Carolina at Chapel Hill (2008–2012)
+- **Development**, Course coordinator, Maastricht University (2020–2024)
+- **Practical Training EEG and ERP**, Tutor, Maastricht University (2014–2021)
+- **Infancy**, Tutor, Maastricht University (2014–2021)
+- **Writing Skills**, Tutor, Maastricht University (2015–2016)
+- **Research Practicum**, Supervisor, Maastricht University (2015)
+- **Electrophysiological Research Methods in Clinical Neuroscience**, Lecturer, University of North Carolina at Chapel Hill (2008–2012)
 
 ---
 
@@ -86,7 +86,7 @@ development, mentoring, and coordination of the Faculty's EEG infrastructure.
 ### Current
 
 - **Chair**, EEG Project Proposal Committee, FPN (2017-present; committee member since 2014)
-- **Coordinator**, FPN EEG laboratories — four fixed and four mobile labs, FPN (2017-present)
+- **Coordinator**, FPN EEG laboratories (four fixed and four mobile labs), FPN (2017-present)
 - **Member**, FPN Workgroup AI (2023-present)
 - **FPN representative**, University-wide Expert Group "UM Vision on Assessment" (2019-present)
 - **Programmatic Assessment Mentor**, Bachelor in Psychology mentoring programme, FPN (2025-present)

@@ -10,10 +10,7 @@ Mental health problems often emerge during development, yet the brain mechanisms
 
 We combine experimental neuroscience with clinical research to examine how core systems such as **sensory responsivity**, **memory**, and **cognitive control** interact over time to influence adaptive and maladaptive outcomes.
 
-Using non-invasive neuroimaging, primarily **Electroencephalography (EEG)**, in combination with behavioral paradigms and validated clinical and self-report measures, we capture the fine-grained temporal dynamics of neural information
-processing.
-
-Through **Event-Related Potentials (ERPs)**, **time-frequency analyses**, and **functional connectivity approaches**, we characterize how brain networks develop and reorganize from childhood into adulthood, giving rise to individual differences in cognition and behavior.
+Using non-invasive neuroimaging, primarily **Electroencephalography (EEG)**, together with behavioral paradigms and validated clinical and self-report measures, we capture the millisecond-level dynamics of neural information processing. These include **Event-Related Potentials (ERPs)**, **time-frequency decomposition**, **functional connectivity**, and **computational modeling**. We chose these methods because they let us track how brain networks develop and reorganize from childhood into adulthood, giving rise to individual differences in cognition and behavior.
 
 ## Framework
 

@@ -49,7 +49,7 @@ Below is a selection of publications organized by research theme. For a complete
 
 ---
 
-## Mechanistic Modelling {#pub-modelling .section-heading}
+## Mechanistic Modeling {#pub-modelling .section-heading}
 
 ::: {#pub-modelling-list}
 :::

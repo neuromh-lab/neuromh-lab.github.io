@@ -27,7 +27,7 @@ health risk.
 ::: {.theme-card}
 ![](images/icon-modelling.svg){width="60"}
 
-### Mechanistic Modelling
+### Mechanistic Modeling
 
 Developing integrative and computational frameworks linking sensory
 and cognitive processes to symptom dimensions and broader mental
