@@ -10,7 +10,7 @@ page-layout: full
 
 **Department of Cognitive Neuroscience**\
 **Maastricht University**\
-Principal Investigator: [Franc Donkers](about.qmd), Associate Professor of Cognitive Neuroscience
+Principal Investigator: Franc Donkers, PhD
 
 :::
 
