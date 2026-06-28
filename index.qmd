@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "NeuroMH Lab | Franc Donkers — Maastricht University"
 page-layout: full
 ---
 
@@ -7,8 +8,9 @@ page-layout: full
 
 ## Neurocognitive Development & Mental Health Research Lab
 
-**Department of Cognitive Neuroscience**  
-**Maastricht University**
+**Department of Cognitive Neuroscience**\
+**Maastricht University**\
+Principal Investigator: [Franc Donkers](about.qmd), Associate Professor of Cognitive Neuroscience
 
 :::
 
