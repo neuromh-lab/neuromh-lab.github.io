@@ -33,6 +33,14 @@ A central aim is to move beyond symptom-based classification toward **transdiagn
 ::: {.news-grid}
 
 ::: {.news-card}
+[June 2026]{.news-date}
+
+#### New publication
+
+"The Joy and the Pain of Being Alone: Managing the Solitude-Loneliness (SOLO) Paradox in People High on the Autism Spectrum" published in *Clinical Child and Family Psychology Review*. [[DOI](https://doi.org/10.1007/s10567-026-00576-4)]{.pub-doi}
+:::
+
+::: {.news-card}
 [May 2026]{.news-date}
 
 #### Citation milestone
