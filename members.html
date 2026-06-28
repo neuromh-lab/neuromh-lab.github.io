@@ -76,8 +76,52 @@ ul.task-list li input[type="checkbox"] {
 <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="192x192" href="./images/favicon-192x192.png">
 <link rel="apple-touch-icon" href="./images/apple-touch-icon.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://neuromh-lab.github.io/#franc-donkers",
+      "name": "Franc Donkers",
+      "alternateName": "Franc C. L. Donkers",
+      "givenName": "Franc",
+      "familyName": "Donkers",
+      "jobTitle": "Associate Professor of Cognitive Neuroscience",
+      "url": "https://neuromh-lab.github.io",
+      "image": "https://neuromh-lab.github.io/images/Franc_Donkers_Pasfoto.jpg",
+      "affiliation": { "@type": "CollegeOrUniversity", "name": "Maastricht University" },
+      "worksFor": { "@id": "https://neuromh-lab.github.io/#lab" },
+      "sameAs": [
+        "https://www.maastrichtuniversity.nl/fcl-donkers",
+        "https://orcid.org/0000-0002-8252-0426",
+        "https://scholar.google.com/citations?user=Us06lxoAAAAJ",
+        "https://www.scopus.com/authid/detail.uri?authorId=9839162300",
+        "https://www.webofscience.com/wos/author/record/H-2391-2013",
+        "https://loop.frontiersin.org/people/27221"
+      ]
+    },
+    {
+      "@type": "ResearchOrganization",
+      "@id": "https://neuromh-lab.github.io/#lab",
+      "name": "Neurocognitive Development & Mental Health Research Lab",
+      "alternateName": "NeuroMH Lab",
+      "url": "https://neuromh-lab.github.io",
+      "logo": "https://neuromh-lab.github.io/images/favicon-192x192.png",
+      "parentOrganization": { "@type": "CollegeOrUniversity", "name": "Maastricht University" },
+      "founder": { "@id": "https://neuromh-lab.github.io/#franc-donkers" }
+    }
+  ]
+}
+</script>
 
 
+<meta property="og:title" content="Lab Members – NeuroMH Lab">
+<meta property="og:image" content="https://neuromh-lab.github.io/images/Franc_Donkers_Pasfoto.jpg">
+<meta property="og:site_name" content="NeuroMH Lab">
+<meta name="twitter:title" content="Lab Members – NeuroMH Lab">
+<meta name="twitter:image" content="https://neuromh-lab.github.io/images/Franc_Donkers_Pasfoto.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -320,7 +364,7 @@ Tip
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/neuromh-lab\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/neuromh-lab\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
