@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "NeuroMH Lab | Franc Donkers — Maastricht University"
+pagetitle: "NeuroMH Lab | Franc Donkers | Maastricht University"
 page-layout: full
 ---
 
@@ -11,6 +11,11 @@ page-layout: full
 **Department of Cognitive Neuroscience**\
 **Maastricht University**\
 Principal Investigator: Franc Donkers, PhD
+
+::: {.hero-cta}
+[Explore our research](research.qmd){.btn .btn-primary}
+[Our People](members.qmd){.btn .btn-outline}
+:::
 
 :::
 
@@ -35,6 +40,14 @@ A central aim is to move beyond symptom-based classification toward **transdiagn
 ::: {.news-grid}
 
 ::: {.news-card}
+[July 2026]{.news-date}
+
+#### Grant awarded
+
+NWO has awarded our lab an SSH Open Competition XS grant for "Can Brain Activity Index Sensory Sensitivity? A Proof-of-Concept Study". The aim of the project is to lay the groundwork for developing an EEG-based marker of sensory sensitivity. [[NWO XS](https://www.nwo.nl/en/news/third-round-of-the-ssh-open-competition-xs-2026-now-open-for-applications)]{.pub-doi}
+:::
+
+::: {.news-card}
 [June 2026]{.news-date}
 
 #### New publication
@@ -47,7 +60,7 @@ A central aim is to move beyond symptom-based classification toward **transdiagn
 
 #### Citation milestone
 
-Donkers & van Boxtel (2004), "The N2 in go/no-go tasks reflects conflict monitoring not response inhibition" (*Brain and Cognition*), has surpassed **1,000 citations** on Google Scholar. [[🎓](https://scholar.google.nl/citations?user=Us06lxoAAAAJ&hl=nl)]{.pub-doi} [[DOI](https://doi.org/10.1016/j.bandc.2004.04.005)]{.pub-doi}
+Donkers & van Boxtel (2004), "The N2 in go/no-go tasks reflects conflict monitoring not response inhibition" (*Brain and Cognition*), has surpassed **1,000 citations** on Google Scholar. [[<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.nl/citations?user=Us06lxoAAAAJ&hl=nl)]{.pub-doi} [[DOI](https://doi.org/10.1016/j.bandc.2004.04.005)]{.pub-doi}
 :::
 
 ::: {.news-card}

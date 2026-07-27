@@ -45,8 +45,17 @@ $footer-fg:        #a0aec0;
     &:hover { background: darken($secondary, 10%); }
   }
   .btn-outline {
-    background: transparent; border: 2px solid white; color: white; font-weight: 600;
-    &:hover { background: rgba(255,255,255,.15); }
+    background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.45); color: #eaf4fb; font-weight: 600;
+    &:hover { background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+  }
+
+  .hero-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+    .btn { padding: .6rem 1.5rem; }
   }
 }
 
@@ -75,6 +84,9 @@ $footer-fg:        #a0aec0;
 }
 
 .theme-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   background: white;
   border: 1px solid #CBD5E0;
   border-top: 4px solid $accent;
@@ -85,8 +97,16 @@ $footer-fg:        #a0aec0;
 
   h3 { color: $primary; font-size: 1.05rem; margin-top: 0; }
   p  { font-size: .9rem; color: #4a5568; }
+  // Quarto wraps the heading + text in a nested <section>; let it fill the card
+  // so the trailing "Learn more →" link can be pushed to the bottom.
+  > section { display: flex; flex-direction: column; flex: 1 1 auto; }
+  // Only push the last paragraph down when it is the "Learn more →" link,
+  // so link rows align across a row (cards without a link are left untouched).
+  > section > p:last-child:has(> a) { margin-top: auto; margin-bottom: 0; }
   // Action links inside theme cards
   p > a[href]:last-child { color: $accent; font-weight: 600; &:hover { color: darken($accent, 12%); } }
+  // Bootstrap-icon accent for card headings (replaces emoji)
+  .theme-icon { color: $accent; margin-right: .4rem; }
 
   &:hover { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
 }
@@ -295,4 +315,42 @@ $footer-fg:        #a0aec0;
     max-width: 100%;
     height: auto;
   }
+}
+
+/*
+ * ─────────────────────────────────────────────
+ *  COURSE CARDS (Teaching page)
+ * ─────────────────────────────────────────────
+ */
+.course-card {
+  background: white;
+  border: 1px solid #CBD5E0;
+  border-left: 4px solid $primary;
+  border-radius: 0 10px 10px 0;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,.06);
+
+  .course-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: .75rem;
+  }
+  .course-title { color: $primary; font-size: 1.15rem; font-weight: 700; margin: 0; }
+  .role-badge {
+    background: $dark; color: white; font-size: .72rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .04em;
+    padding: .28rem .6rem; border-radius: 20px; white-space: nowrap;
+  }
+  .course-meta { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: .85rem; }
+  .meta-pill {
+    display: inline-flex; align-items: center; gap: .35rem;
+    background: $light-bg; color: $primary; font-size: .78rem; font-weight: 600;
+    padding: .28rem .65rem; border-radius: 6px;
+    i { color: $secondary; }
+  }
+  .course-desc { font-size: .92rem; color: #4a5568; margin: 0; }
 }

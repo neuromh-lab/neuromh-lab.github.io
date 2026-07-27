@@ -1,6 +1,6 @@
 ---
 title: "Join the Lab"
-subtitle: "PhD positions · Postdocs · MSc Theses · Internships"
+subtitle: "MSc Theses · PhD Positions · Postdoctoral Fellowships"
 ---
 
 We welcome motivated researchers and students who are passionate about understanding how the brain shapes mental health. We value curiosity, rigour, and collaborative work.
@@ -9,7 +9,7 @@ We welcome motivated researchers and students who are passionate about understan
 
 ## Open Positions {.section-heading}
 
-There are no funded PhD or postdoc positions currently available. However, we are always interested in hearing from strong candidates. If you are considering applying for external fellowship funding and your research interests overlap with ours, please get in touch; see [Postdoctoral Opportunities](#postdoc) below.
+There are no funded PhD or postdoc positions currently available. However, we are always interested in hearing from strong candidates. If you are considering applying for external fellowship funding and your research interests overlap with ours, please get in touch; see [PhD Opportunities](#phd) and [Postdoctoral Opportunities](#postdoc) below.
 
 ---
 
@@ -21,12 +21,25 @@ We regularly supervise MSc thesis students. Currently this is open to students f
 **How to apply:** Send an email with: (1) brief motivation (half page), (2) your
 CV, and (3) your transcript. Include "MSc Thesis Inquiry" in the subject line.
 
-[📧 Email NeuroMH Lab](mailto:franc.donkers@maastrichtuniversity.nl?subject=MSc%20Thesis%20Inquiry){.btn .btn-primary .btn-sm}
+[<i class="bi bi-envelope-fill"></i> Email NeuroMH Lab](mailto:franc.donkers@maastrichtuniversity.nl?subject=MSc%20Thesis%20Inquiry){.btn .btn-primary .btn-sm}
 
 **Timeline:** Applications reviewed on a rolling basis. 
 
 ---
 
+
+## PhD Opportunities {#phd .section-heading}
+
+We can host **PhD candidates who bring their own funding**, for example a national scholarship or personal grant, provided the project aligns with the lab's research themes.
+
+Relevant funding routes include:
+
+- National scholarship schemes from the applicant's home country (for example CSC, Fulbright, DAAD, and similar national programmes)
+- MSCA Doctoral Networks (EU): funded PhD positions hosted by the lab or a consortium, advertised when available
+
+If one of these applies to you, get in touch with a CV and a brief research statement.
+
+---
 
 ## Postdoctoral Opportunities {#postdoc .section-heading}
 
@@ -44,17 +57,17 @@ If your research interests match ours and you are interested in applying for one
 ::: {.research-grid}
 
 ::: {.theme-card}
-### 🔬 Rigorous Science
+### [<i class="bi bi-clipboard2-check"></i>]{.theme-icon} Rigorous Science
 We maintain high standards for study design, analysis, and reporting.
 :::
 
 ::: {.theme-card}
-### 👥 Collaborative Culture
+### [<i class="bi bi-people-fill"></i>]{.theme-icon} Collaborative Culture
 Regular lab meetings, one-on-one supervision, and a supportive team environment.
 :::
 
 ::: {.theme-card}
-### 🌍 International Network
+### [<i class="bi bi-globe-europe-africa"></i>]{.theme-icon} International Network
 Connections with collaborators across the Netherlands, Europe and beyond.
 :::
 

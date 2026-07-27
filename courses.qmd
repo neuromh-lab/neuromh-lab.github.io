@@ -17,38 +17,52 @@ over the past years.
 
 ## Bachelor's Courses {.section-heading}
 
-### Lifespan Psychology
-**Programme:** BSc Psychology  
-**Period:** Period 5 (April-June)  
-**Level:** Year 1  
-**Students:** Undergraduate psychology students (~450 per year)  
-**Role:** Course Coordinator
-
-The course provides an in-depth analysis of critical developmental processes including perceptual, cognitive, linguistic, emotional, social, and motor development. Key clinical conditions, including ADHD, schizophrenia, obsessive-compulsive disorder, depression, and dementia are examined as well including psychological interventions, pharmacological treatments, and other emerging therapeutic modalities. By integrating developmental and clinical perspectives, the course provides a well-rounded view of human psychological development, variation within it, and potential paths for intervention.
+<div class="course-card">
+<div class="course-head">
+<p class="course-title">Lifespan Psychology</p>
+<span class="role-badge">Course Coordinator</span>
+</div>
+<div class="course-meta">
+<span class="meta-pill"><i class="bi bi-mortarboard-fill"></i> BSc Psychology</span>
+<span class="meta-pill"><i class="bi bi-calendar3"></i> Period 5 · Apr–Jun</span>
+<span class="meta-pill"><i class="bi bi-bar-chart-fill"></i> Year 1</span>
+<span class="meta-pill"><i class="bi bi-people-fill"></i> ~450 students / yr</span>
+</div>
+<p class="course-desc">The course provides an in-depth analysis of critical developmental processes including perceptual, cognitive, linguistic, emotional, social, and motor development. Key clinical conditions, including ADHD, schizophrenia, obsessive-compulsive disorder, depression, and dementia are examined as well including psychological interventions, pharmacological treatments, and other emerging therapeutic modalities. By integrating developmental and clinical perspectives, the course provides a well-rounded view of human psychological development, variation within it, and potential paths for intervention.</p>
+</div>
 
 
 ## Master's Courses {.section-heading}
 
-### Development of Cognition and Language
-**Programme:** MSc Psychology  
-**Period:** Period 2 (October-December)  
-**Level:** Master's  
-**Students:** Graduate psychology students (50–80 per year)  
-**Role:** Course Coordinator
-
-This course explores the typical and atypical development (dyslexia, dyscalculia) of higher-order cognitive processes that underlie learning and academic achievement. Students examine how core cognitive systems, including working memory, episodic and semantic memory, language, numeracy and mathematical reasoning, executive functions, and general intelligence, develop and interact over time.
+<div class="course-card">
+<div class="course-head">
+<p class="course-title">Development of Cognition and Language</p>
+<span class="role-badge">Course Coordinator</span>
+</div>
+<div class="course-meta">
+<span class="meta-pill"><i class="bi bi-mortarboard-fill"></i> MSc Psychology</span>
+<span class="meta-pill"><i class="bi bi-calendar3"></i> Period 2 · Oct–Dec</span>
+<span class="meta-pill"><i class="bi bi-bar-chart-fill"></i> Master's</span>
+<span class="meta-pill"><i class="bi bi-people-fill"></i> 50–80 students / yr</span>
+</div>
+<p class="course-desc">This course explores the typical and atypical development (dyslexia, dyscalculia) of higher-order cognitive processes that underlie learning and academic achievement. Students examine how core cognitive systems, including working memory, episodic and semantic memory, language, numeracy and mathematical reasoning, executive functions, and general intelligence, develop and interact over time.</p>
+</div>
 
 
 ## Workshops  {.section-heading}
 
-### The Assessment Cycle
-**Programme:** University Teaching Qualification   
-**Period:** Period 2 & 4 (Oct & Mar)   
-**Level:** PhD  
-**Participants:** Teaching staff (15–20 per year)  
-**Role:** Workshop Coordinator
-
-The UTQ program supports staff as they develop and improve with regard to the competences needed for teaching at university, and guides them in obtaining a UTQ certificate. The Assessment Cycle workshop consists of 2 sessions of 2 hours. The workshops focus on assessment policy and vision, constructive alignment, and the application of provided guidelines with respect to different types of assessment.
+<div class="course-card">
+<div class="course-head">
+<p class="course-title">The Assessment Cycle</p>
+<span class="role-badge">Workshop Coordinator</span>
+</div>
+<div class="course-meta">
+<span class="meta-pill"><i class="bi bi-mortarboard-fill"></i> University Teaching Qualification</span>
+<span class="meta-pill"><i class="bi bi-calendar3"></i> Period 2 & 4 · Oct & Mar</span>
+<span class="meta-pill"><i class="bi bi-people-fill"></i> 15–20 staff / yr</span>
+</div>
+<p class="course-desc">The UTQ program supports staff as they develop and improve with regard to the competences needed for teaching at university, and guides them in obtaining a UTQ certificate. The Assessment Cycle workshop consists of 2 sessions of 2 hours. The workshops focus on assessment policy and vision, constructive alignment, and the application of provided guidelines with respect to different types of assessment.</p>
+</div>
 
 ---
 
