@@ -1,6 +1,7 @@
 ---
 title: ""
 pagetitle: "NeuroMH Lab | Franc Donkers | Maastricht University"
+title-prefix: ""
 page-layout: full
 ---
 
@@ -44,7 +45,7 @@ A central aim is to move beyond symptom-based classification toward **transdiagn
 
 #### Grant awarded
 
-NWO has awarded our lab an SSH Open Competition XS grant for "Can Brain Activity Index Sensory Sensitivity? A Proof-of-Concept Study". The aim of the project is to lay the groundwork for developing an EEG-based marker of sensory sensitivity. [[NWO XS](https://www.nwo.nl/en/news/third-round-of-the-ssh-open-competition-xs-2026-now-open-for-applications)]{.pub-doi}
+NWO has awarded our lab an SSH Open Competition XS grant for "Towards an objective measure of sensory sensitivity: a neural-behavioral approach". The aim of the project is to lay the groundwork for developing an EEG-based marker of sensory sensitivity. [[NWO XS](https://www.nwo.nl/en/news/third-round-of-the-ssh-open-competition-xs-2026-now-open-for-applications)]{.pub-doi}
 :::
 
 ::: {.news-card}

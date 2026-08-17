@@ -6,7 +6,7 @@ project:
 
 website:
   title: "NeuroMH Lab"
-  description: "Neurocognitive Development & Mental Health Research Lab at Maastricht University, led by Franc Donkers — EEG/ERP research on neurocognitive development and mental health."
+  description: "Neurocognitive Development & Mental Health Research Lab at Maastricht University, led by Franc Donkers: EEG/ERP research on neurocognitive development and mental health."
   site-url: https://neuromh-lab.github.io
   favicon: images/favicon.svg
   open-graph: true
